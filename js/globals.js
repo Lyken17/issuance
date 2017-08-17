@@ -2,4 +2,4 @@
 
 var USERNAME = 'Lyken17', // github username
     REPO = 'issuance', // github repository
-    TOKEN = '9e2427e9fbff1ac8cf6a071e6236bc20e0d22beb'; // github app access token
+    TOKEN = 'db2de1a60955319029bb05d8fd96485cee10fb9d'; // github app access token
